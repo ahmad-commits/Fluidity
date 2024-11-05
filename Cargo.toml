@@ -1,0 +1,10 @@
+[package]
+name = "Fluidity"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+rayon = "1.10.0"
+sdl2 = "0.37.0"
+specs = "0.20.0"
